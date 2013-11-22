@@ -1,0 +1,6 @@
+_site
+.sass-cache
+*~
+shower/
+themes/ribbon/
+themes/bright/
