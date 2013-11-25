@@ -1,10 +1,37 @@
 ---
-layout: ribbon
+layout: plain
 progress: true
 author_name: Nils Rydh
-style: "\n#Cover h2 {\n    margin:30px 0 0;\n    color:#FFF;\n    text-align:center;\n    font-size:70px;\n    }\n#Cover p {\n    margin:10px 0 0;\n    text-align:center;\n    color:#FFF;\n    font-style:italic;\n    font-size:20px;\n    }\n    #Cover p a {\n        color:#FFF;\n        }\n#Picture h2 {\n    color:#FFF;\n    }\n#SeeMore h2 {\n    font-size:100px\n    }\n#SeeMore img {\n    width:0.72em;\n    height:0.72em;\n    }\n"
-published: true
+style: |
+
+    #Cover h2 {
+        margin:30px 0 0;
+        color:#FFF;
+        text-align:center;
+        font-size:70px;
+        }
+    #Cover p {
+        margin:10px 0 0;
+        text-align:center;
+        color:#FFF;
+        font-style:italic;
+        font-size:20px;
+        }
+        #Cover p a {
+            color:#FFF;
+            }
+    #Picture h2 {
+        color:#FFF;
+        }
+    #SeeMore h2 {
+        font-size:100px
+        }
+    #SeeMore img {
+        width:0.72em;
+        height:0.72em;
+        }
 ---
+
 
 # ArcGIS Online
 {:.cover}
