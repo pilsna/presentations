@@ -71,7 +71,7 @@ table {
 
 body {
   counter-reset: slide;
-  font: 25px/2 'PT Sans', sans-serif; }
+  font: 45px/1.5 'PT Sans', sans-serif; }
 
 a {
   text-decoration: none; }
@@ -100,7 +100,7 @@ a {
   width: 11em;
   height: 11em;
   line-height: 2.5;
-  font-size: 15px; }
+  font-size: 25px; }
 
 .badge a {
   position: absolute;
@@ -143,12 +143,11 @@ a {
     padding: 20px 0 0;
     width: 50px;
     height: 80px;
-    /*background:url(../images/ribbon.svg) no-repeat; */
     color: #FFF;
     counter-increment: slide;
     content: counter(slide);
     text-align: center;
-    font-size: 20px; }
+    font-size: 30px; }
   .slide > div {
     position: absolute;
     top: 0;
@@ -163,13 +162,12 @@ a {
 .slide h2 {
   margin: 0 0 37px;
   color: #666;
-  font: bold 50px/1 'PT Sans Narrow', sans-serif; }
+  font: bold 70px/1 'PT Sans Narrow', sans-serif; }
 .slide p {
   margin: 0 0 50px; }
 .slide p.note {
   color: #999; }
 .slide a {
-  border-bottom: 0.1em solid;
   color: #4b86c2; }
 .slide b, .slide strong {
   font-weight: bold; }
@@ -228,7 +226,7 @@ a {
     padding: 0;
     background: none;
     white-space: pre;
-    line-height: 50px; }
+    line-height: 30px; }
     .slide pre code:before {
       position: absolute;
       margin: 0 0 0 -110px;
