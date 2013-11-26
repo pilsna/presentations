@@ -141,6 +141,7 @@ Web apps are hosted on ago or elsewhere
 - story map template
 //TODO: download a template from AGO or github, make som changes, run
 //TODO: create a template from scratch
+// Titanic storymap http://storymaps.esri.com/stories/titanic/
 
 ## template configuration
 
