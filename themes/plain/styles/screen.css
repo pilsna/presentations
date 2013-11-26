@@ -226,7 +226,8 @@ a {
     padding: 0;
     background: none;
     white-space: pre;
-    line-height: 30px; }
+    line-height: 30px;
+    font-size: 67%; }
     .slide pre code:before {
       position: absolute;
       margin: 0 0 0 -110px;
