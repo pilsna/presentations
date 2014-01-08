@@ -42,7 +42,7 @@ style: |
 {:.cover .w}
 <!-- photo from developers.arcgis.com -->
 
-## **mål for idag**
+## **goals**
  
 ## knowledge exchange
 {:.cover .h .picture}
